@@ -1,6 +1,6 @@
-##Welcome to my page! 
+## Welcome to my page! 
 
-My name is *Alex Hanson* and it is very nice to see you here in my humble repository.
+# My name is *Alex Hanson* and it is very nice to see you here in my humble repository.
 
 `About Me`
 > I currently go to USFCA as a computer science major and will graduate in May 2021
